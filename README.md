@@ -1,2 +1,2 @@
 # Scottish-Kilt 
-<a href="url">link text</a>
+<a href="https://scottishkiltshop.com/">Scottish Kilt</a>
